@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep learning and Human language technologies.
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 Reach me at linkedIn : https://www.linkedin.com/in/sharath-chandra-yanamandra-073466114/
+- Experienced in NLP, GEN AI, Image processing, Deep learning.
 
 <!---
 sharath-yanamandra/sharath-yanamandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
